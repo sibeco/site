@@ -490,7 +490,7 @@ body.home .main-content-inner {
 /* Dark Top Bar Properties */
 /* -------------------------------- */
 .topbar-outer.dark {
-	background-color: #34495E;
+	background-color: #3e7dbd; /* Основной цвет меню */
 }
 
 /* -------------------------------- */
